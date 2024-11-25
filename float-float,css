@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+       
+img{
+    
+    width: 30vw;
+   
+    height: 30vw;
+    padding: 1rem;
+    float:right;
+   
+}
+
+section{
+    display: flow-root;
+   
+    border: 2px solid red;
+} 
+    </style>
+    <title>float</title>
+</head>
+
+<body>
+    <section>
+    <img src="image/AVC COLLEGE IMAGE.JPEG" alt="">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi repellat iure cupiditate doloribus a corporis facilis aut, voluptas consequuntur possimus?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla recusandae ullam, illo nihil ipsa quasi nemo reprehenderit adipisci. Ipsum amet mollitia unde quia eaque natus, velit nemo fuga nam porro?
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi repellat iure cupiditate doloribus a corporis facilis aut, voluptas consequuntur possimus?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla recusandae ullam, illo nihil ipsa quasi nemo reprehenderit adipisci. Ipsum amet mollitia unde quia eaque natus, velit nemo fuga nam porro?
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi repellat iure cupiditate doloribus a corporis facilis aut, voluptas consequuntur possimus?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla recusandae ullam, illo nihil ipsa quasi nemo reprehenderit adipisci. Ipsum amet mollitia unde quia eaque natus, velit nemo fuga nam porro?
+    </p>
+    </section>
+</body>
+</html>
